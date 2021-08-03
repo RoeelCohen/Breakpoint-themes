@@ -1,9 +1,18 @@
-# Breakpoint Themes 🌈
-⚡️ Powered by 🔴 Breakpoint
+# 🔴 Breakpoint Themes
+
+<br>
+Hey fellow coders! <br>
+We in Breakpoint belive that code should be fun but also stylish!
+Therefore we are proud to present our customed themed Shell!
+<br><br>
+
+![alt text][shell_gif]
+
+[shell_gif]: /Resources/Breakpoint.gif ""
 
 <br>
 
-### Shell
+### Shell Colors
 - [iTerm](/Shell/Breakpoint.itermcolors) - (Download and import: Preferences ➜ Profiles ➜ Colors ➜ Color Presets(bottom right) ➜ Import...)
 - [macOS Terminal](Shell/Breakpoint.terminal) (Download and import: Preferences ➜ Profiles ➜ ... (Dropdown) ➜ Import... )
 
