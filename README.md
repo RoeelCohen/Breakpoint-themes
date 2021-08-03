@@ -5,7 +5,7 @@
 
 ### Shell
 - [iTerm](/Shell/Breakpoint.itermcolors) - (Download and import: Preferences ➜ Profiles ➜ Colors ➜ Color Presets(bottom right) ➜ Import...)
-- [Terminal](Shell/Breakpoint.terminal) (Download and import: Preferences ➜ Profiles ➜ ... (Dropdown) ➜ Import... )
+- [macOS Terminal](Shell/Breakpoint.terminal) (Download and import: Preferences ➜ Profiles ➜ ... (Dropdown) ➜ Import... )
 
 <br>
 
