@@ -2,7 +2,7 @@
 
 <br>
 Hey fellow coders! <br>
-We in Breakpoint belive that code should be fun but also stylish!
+We in Breakpoint belive that code should be fun but also stylish! <br>
 Therefore we are proud to present our customed themed Shell!
 <br><br>
 
