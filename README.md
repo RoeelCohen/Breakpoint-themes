@@ -12,6 +12,10 @@ Therefore we are proud to present our customed themed Shell!
 
 <br>
 
+[Download you selected assetes from our latest release](https://github.com/RoeelCohen/Breakpoint-themes/releases/latest)
+
+<br>
+
 ### Shell Colors
 - [iTerm](/Shell/Breakpoint.itermcolors) - (Download and import: Preferences ➜ Profiles ➜ Colors ➜ Color Presets(bottom right) ➜ Import...)
 - [macOS Terminal](Shell/Breakpoint.terminal) (Download and import: Preferences ➜ Profiles ➜ ... (Dropdown) ➜ Import... )
